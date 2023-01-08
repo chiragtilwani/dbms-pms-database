@@ -1,5 +1,5 @@
 # frontend-repo
-
+git clone git@github.com:chiragtilwani/dbms-pms-frontend.git
 
 # pms-combined
 Placement Management system DBMS project
